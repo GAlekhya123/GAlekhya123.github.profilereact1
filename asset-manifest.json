@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/profilereact1/static/css/main.a3b3e5c1.chunk.css",
+    "main.js": "/profilereact1/static/js/main.8b3269cf.chunk.js",
+    "main.js.map": "/profilereact1/static/js/main.8b3269cf.chunk.js.map",
+    "runtime-main.js": "/profilereact1/static/js/runtime-main.efb2372c.js",
+    "runtime-main.js.map": "/profilereact1/static/js/runtime-main.efb2372c.js.map",
+    "static/css/2.b6a8c48d.chunk.css": "/profilereact1/static/css/2.b6a8c48d.chunk.css",
+    "static/js/2.acd32ed3.chunk.js": "/profilereact1/static/js/2.acd32ed3.chunk.js",
+    "static/js/2.acd32ed3.chunk.js.map": "/profilereact1/static/js/2.acd32ed3.chunk.js.map",
+    "index.html": "/profilereact1/index.html",
+    "precache-manifest.ba6b594e291b0ae4b91db75d9c687833.js": "/profilereact1/precache-manifest.ba6b594e291b0ae4b91db75d9c687833.js",
+    "service-worker.js": "/profilereact1/service-worker.js",
+    "static/css/2.b6a8c48d.chunk.css.map": "/profilereact1/static/css/2.b6a8c48d.chunk.css.map",
+    "static/css/main.a3b3e5c1.chunk.css.map": "/profilereact1/static/css/main.a3b3e5c1.chunk.css.map",
+    "static/js/2.acd32ed3.chunk.js.LICENSE.txt": "/profilereact1/static/js/2.acd32ed3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efb2372c.js",
+    "static/css/2.b6a8c48d.chunk.css",
+    "static/js/2.acd32ed3.chunk.js",
+    "static/css/main.a3b3e5c1.chunk.css",
+    "static/js/main.8b3269cf.chunk.js"
+  ]
+}
